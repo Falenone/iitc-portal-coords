@@ -5,4 +5,4 @@ It shows portal coordinates in portal details window.
 You can click on the coordinates to copy them directly in the clipboard.
 
 ## Installation 
-Install directly to Greasemonkey or Tampermonkey by clicking [the link]( https://raw.githubusercontent.com/vrabcak/iitc-portal-coords/master/iitc-portal-coords.user.js)
+Install directly to Greasemonkey or Tampermonkey by clicking [the link]( https://github.com/Falenone/iitc-portal-coords/blob/master/iitc-portal-coords.user.js)
